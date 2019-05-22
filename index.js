@@ -17,5 +17,5 @@ function logWhisper(string) {
 if (true) {
   console.log("I can/t hear you!")
   console.log("YES INDEED!")
-  console.log("")
+  console.log("I love you, too")
 }
